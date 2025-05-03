@@ -1,0 +1,163 @@
+command_id: 7E0.2211BB
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E8037F2278
+    7E8056211BB2328
+  expected_values:
+    AUDI_OIL_CRIT: 3.6
+- response: |-
+    7E8037F2278
+    7E8056211BB2329
+  expected_values:
+    AUDI_OIL_CRIT: 3.6004
+- response: |-
+    7E8037F2278
+    7E8056211BB24A7
+  expected_values:
+    AUDI_OIL_CRIT: 3.7532
+- response: |-
+    7E8037F2278
+    7E8056211BB24FB
+  expected_values:
+    AUDI_OIL_CRIT: 3.7868
+- response: |-
+    7E8037F2278
+    7E8056211BB26D0
+  expected_values:
+    AUDI_OIL_CRIT: 3.9744
+- response: |-
+    7E8037F2278
+    7E8056211BB26FC
+  expected_values:
+    AUDI_OIL_CRIT: 3.992
+- response: |-
+    7E8037F2278
+    7E8056211BB273C
+  expected_values:
+    AUDI_OIL_CRIT: 4.0176
+- response: |-
+    7E8037F2278
+    7E8056211BB2AD7
+  expected_values:
+    AUDI_OIL_CRIT: 4.3868
+- response: |-
+    7E8037F2278
+    7E8056211BB385F
+  expected_values:
+    AUDI_OIL_CRIT: 5.7724
+- response: 7E8056211BB2328
+  expected_values:
+    AUDI_OIL_CRIT: 3.6
+- response: 7E8056211BB237E
+  expected_values:
+    AUDI_OIL_CRIT: 3.6344
+- response: 7E8056211BB23A4
+  expected_values:
+    AUDI_OIL_CRIT: 3.6496
+- response: 7E8056211BB23A5
+  expected_values:
+    AUDI_OIL_CRIT: 3.65
+- response: 7E8056211BB23B5
+  expected_values:
+    AUDI_OIL_CRIT: 3.6564
+- response: 7E8056211BB244F
+  expected_values:
+    AUDI_OIL_CRIT: 3.718
+- response: 7E8056211BB245E
+  expected_values:
+    AUDI_OIL_CRIT: 3.724
+- response: 7E8056211BB2463
+  expected_values:
+    AUDI_OIL_CRIT: 3.726
+- response: 7E8056211BB2465
+  expected_values:
+    AUDI_OIL_CRIT: 3.7268
+- response: 7E8056211BB2481
+  expected_values:
+    AUDI_OIL_CRIT: 3.738
+- response: 7E8056211BB2488
+  expected_values:
+    AUDI_OIL_CRIT: 3.7408
+- response: 7E8056211BB2492
+  expected_values:
+    AUDI_OIL_CRIT: 3.7448
+- response: 7E8056211BB249B
+  expected_values:
+    AUDI_OIL_CRIT: 3.7484
+- response: 7E8056211BB24CE
+  expected_values:
+    AUDI_OIL_CRIT: 3.7688
+- response: 7E8056211BB2550
+  expected_values:
+    AUDI_OIL_CRIT: 3.8208
+- response: 7E8056211BB2590
+  expected_values:
+    AUDI_OIL_CRIT: 3.8464
+- response: 7E8056211BB2604
+  expected_values:
+    AUDI_OIL_CRIT: 3.8928
+- response: 7E8056211BB2663
+  expected_values:
+    AUDI_OIL_CRIT: 3.9308
+- response: 7E8056211BB26A4
+  expected_values:
+    AUDI_OIL_CRIT: 3.9568
+- response: 7E8056211BB26D3
+  expected_values:
+    AUDI_OIL_CRIT: 3.9756
+- response: 7E8056211BB26D4
+  expected_values:
+    AUDI_OIL_CRIT: 3.976
+- response: 7E8056211BB2707
+  expected_values:
+    AUDI_OIL_CRIT: 3.9964
+- response: 7E8056211BB2724
+  expected_values:
+    AUDI_OIL_CRIT: 4.008
+- response: 7E8056211BB2737
+  expected_values:
+    AUDI_OIL_CRIT: 4.0156
+- response: 7E8056211BB2765
+  expected_values:
+    AUDI_OIL_CRIT: 4.034
+- response: 7E8056211BB2778
+  expected_values:
+    AUDI_OIL_CRIT: 4.0416
+- response: 7E8056211BB279D
+  expected_values:
+    AUDI_OIL_CRIT: 4.0564
+- response: 7E8056211BB27AD
+  expected_values:
+    AUDI_OIL_CRIT: 4.0628
+- response: 7E8056211BB27AF
+  expected_values:
+    AUDI_OIL_CRIT: 4.0636
+- response: 7E8056211BB27CB
+  expected_values:
+    AUDI_OIL_CRIT: 4.0748
+- response: 7E8056211BB27EB
+  expected_values:
+    AUDI_OIL_CRIT: 4.0876
+- response: 7E8056211BB27EF
+  expected_values:
+    AUDI_OIL_CRIT: 4.0892
+- response: 7E8056211BB27FC
+  expected_values:
+    AUDI_OIL_CRIT: 4.0944
+- response: 7E8056211BB2898
+  expected_values:
+    AUDI_OIL_CRIT: 4.1568
+- response: 7E8056211BB2B0A
+  expected_values:
+    AUDI_OIL_CRIT: 4.4072
+- response: 7E8056211BB305C
+  expected_values:
+    AUDI_OIL_CRIT: 4.952
+- response: 7E8056211BB3126
+  expected_values:
+    AUDI_OIL_CRIT: 5.0328
+- response: 7E8056211BB32DD
+  expected_values:
+    AUDI_OIL_CRIT: 5.2084

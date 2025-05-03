@@ -1,0 +1,85 @@
+command_id: 7E0.7E8.22F431
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F4310402
+  expected_values:
+    AUDI_CLR_DIST: 1026
+- response: 7E80562F4310403
+  expected_values:
+    AUDI_CLR_DIST: 1027
+- response: 7E80562F4310404
+  expected_values:
+    AUDI_CLR_DIST: 1028
+- response: 7E80562F4310405
+  expected_values:
+    AUDI_CLR_DIST: 1029
+- response: 7E80562F4310406
+  expected_values:
+    AUDI_CLR_DIST: 1030
+- response: 7E80562F4310407
+  expected_values:
+    AUDI_CLR_DIST: 1031
+- response: 7E80562F4310445
+  expected_values:
+    AUDI_CLR_DIST: 1093
+- response: 7E80562F4310446
+  expected_values:
+    AUDI_CLR_DIST: 1094
+- response: 7E80562F4310447
+  expected_values:
+    AUDI_CLR_DIST: 1095
+- response: 7E80562F4310448
+  expected_values:
+    AUDI_CLR_DIST: 1096
+- response: 7E80562F4310482
+  expected_values:
+    AUDI_CLR_DIST: 1154
+- response: 7E80562F4310483
+  expected_values:
+    AUDI_CLR_DIST: 1155
+- response: 7E80562F4310484
+  expected_values:
+    AUDI_CLR_DIST: 1156
+- response: 7E80562F4310485
+  expected_values:
+    AUDI_CLR_DIST: 1157
+- response: 7E80562F4310486
+  expected_values:
+    AUDI_CLR_DIST: 1158
+- response: 7E80562F4310487
+  expected_values:
+    AUDI_CLR_DIST: 1159
+- response: 7E80562F4310488
+  expected_values:
+    AUDI_CLR_DIST: 1160
+- response: 7E80562F431049A
+  expected_values:
+    AUDI_CLR_DIST: 1178
+- response: 7E80562F431049B
+  expected_values:
+    AUDI_CLR_DIST: 1179
+- response: 7E80562F431049C
+  expected_values:
+    AUDI_CLR_DIST: 1180
+- response: 7E80562F431049D
+  expected_values:
+    AUDI_CLR_DIST: 1181
+- response: 7E80562F431049E
+  expected_values:
+    AUDI_CLR_DIST: 1182
+- response: 7E80562F431049F
+  expected_values:
+    AUDI_CLR_DIST: 1183
+- response: 7E80562F43104A0
+  expected_values:
+    AUDI_CLR_DIST: 1184
+- response: 7E80562F43104A1
+  expected_values:
+    AUDI_CLR_DIST: 1185
+- response: 7E80562F43104A2
+  expected_values:
+    AUDI_CLR_DIST: 1186
+- response: 7E80562F43104A3
+  expected_values:
+    AUDI_CLR_DIST: 1187

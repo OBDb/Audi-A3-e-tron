@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.22F430
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80462F43017
+  expected_values:
+    AUDI_WARM_UPS: 23
+- response: 7E80462F43018
+  expected_values:
+    AUDI_WARM_UPS: 24
+- response: 7E80462F43019
+  expected_values:
+    AUDI_WARM_UPS: 25
+- response: 7E80462F4301A
+  expected_values:
+    AUDI_WARM_UPS: 26

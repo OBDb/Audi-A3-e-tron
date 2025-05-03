@@ -1,0 +1,166 @@
+command_id: 7E1.223887
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E90762388752121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190523.4
+- response: 7E90762388753121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190523.5
+- response: 7E90762388755121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190523.7
+- response: 7E90762388758121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190524
+- response: 7E9076238875B121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190524.3
+- response: 7E9076238875E121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190524.6
+- response: 7E9076238875F121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190524.7
+- response: 7E90762388766121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190525.4
+- response: 7E9076238876F121D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190526.3
+- response: 7E90762388794151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190606.8
+- response: 7E90762388797151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190607.1
+- response: 7E90762388798151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190607.2
+- response: 7E9076238879C151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190607.6
+- response: 7E9076238879E151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190607.8
+- response: 7E907623887A1151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190608.1
+- response: 7E907623887A6151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190608.6
+- response: 7E907623887A8141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190583.2
+- response: 7E907623887AB151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190609.1
+- response: 7E907623887AD141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190583.7
+- response: 7E907623887B0151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190609.6
+- response: 7E907623887B2141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190584.2
+- response: 7E907623887B6141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190584.6
+- response: 7E907623887B9141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190584.9
+- response: 7E907623887BD151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190610.9
+- response: 7E907623887BE0F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190457.4
+- response: 7E907623887BF151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190611.1
+- response: 7E907623887C00F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190457.6
+- response: 7E907623887C0141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190585.6
+- response: 7E907623887C2151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190611.4
+- response: 7E907623887C30F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190457.9
+- response: 7E907623887C6151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190611.8
+- response: 7E907623887C70F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190458.3
+- response: 7E907623887CA141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190586.6
+- response: 7E907623887CC0F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190458.8
+- response: 7E907623887CC151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190612.4
+- response: 7E907623887D0151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190612.8
+- response: 7E907623887D10F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190459.3
+- response: 7E907623887D2151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190613
+- response: 7E907623887D4141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190587.6
+- response: 7E907623887D50F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190459.7
+- response: 7E907623887D9151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190613.7
+- response: 7E907623887DB0F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190460.3
+- response: 7E907623887DC141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190588.4
+- response: 7E907623887E00F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190460.8
+- response: 7E907623887E30F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190461.1
+- response: 7E907623887E3151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190614.7
+- response: 7E907623887E60F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190461.4
+- response: 7E907623887E6141D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190589.4
+- response: 7E907623887E70F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190461.5
+- response: 7E907623887E80F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190461.6
+- response: 7E907623887EB0F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190461.9
+- response: 7E907623887EC151D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190615.6
+- response: 7E907623887F00F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190462.4
+- response: 7E907623887F40F1D00
+  expected_values:
+    AUDI_ODO_TCM_2_HD: 190462.8

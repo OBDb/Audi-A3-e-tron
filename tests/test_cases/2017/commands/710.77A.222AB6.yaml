@@ -1,0 +1,99 @@
+command_id: 710.77A.222AB6
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    77A100A622AB600FF00
+    77A21FA000501AAAAAA
+  expected_values:
+    AUDI_RANGE: 255
+- response: |-
+    77A100A622AB6010100
+    77A21FA000701AAAAAA
+  expected_values:
+    AUDI_RANGE: 257
+- response: |-
+    77A100A622AB6010200
+    77A21FA000801AAAAAA
+  expected_values:
+    AUDI_RANGE: 258
+- response: |-
+    77A100A622AB6010300
+    77A21FA000901AAAAAA
+  expected_values:
+    AUDI_RANGE: 259
+- response: |-
+    77A100A622AB6010400
+    77A21FA000A01AAAAAA
+  expected_values:
+    AUDI_RANGE: 260
+- response: |-
+    77A100A622AB6010500
+    77A21FA000B01AAAAAA
+  expected_values:
+    AUDI_RANGE: 261
+- response: |-
+    77A100A622AB6010700
+    77A21FA000D01AAAAAA
+  expected_values:
+    AUDI_RANGE: 263
+- response: |-
+    77A100A622AB6010800
+    77A21FA000E01AAAAAA
+  expected_values:
+    AUDI_RANGE: 264
+- response: |-
+    77A100A622AB6010900
+    77A21FA000F01AAAAAA
+  expected_values:
+    AUDI_RANGE: 265
+- response: |-
+    77A100A622AB6010A00
+    77A21FA001001AAAAAA
+  expected_values:
+    AUDI_RANGE: 266
+- response: |-
+    77A100A622AB6010B00
+    77A21FA001101AAAAAA
+  expected_values:
+    AUDI_RANGE: 267
+- response: |-
+    77A100A622AB6010F00
+    77A21FF001001AAAAAA
+  expected_values:
+    AUDI_RANGE: 271
+- response: |-
+    77A100A622AB6011000
+    77A21FF001101AAAAAA
+  expected_values:
+    AUDI_RANGE: 272
+- response: |-
+    77A100A622AB6011401
+    77A2104001001AAAAAA
+  expected_values:
+    AUDI_RANGE: 276
+- response: |-
+    77A100A622AB6014401
+    77A2131001301AAAAAA
+  expected_values:
+    AUDI_RANGE: 324
+- response: |-
+    77A100A622AB6014501
+    77A2131001401AAAAAA
+  expected_values:
+    AUDI_RANGE: 325
+- response: |-
+    77A100A622AB6015E01
+    77A214A001401AAAAAA
+  expected_values:
+    AUDI_RANGE: 350
+- response: |-
+    77A100A622AB6015F01
+    77A214A001501AAAAAA
+  expected_values:
+    AUDI_RANGE: 351
+- response: |-
+    77A100A622AB6016101
+    77A214A001701AAAAAA
+  expected_values:
+    AUDI_RANGE: 353
