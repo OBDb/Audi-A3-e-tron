@@ -1,0 +1,169 @@
+command_id: 7E0.7E8.22F41F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F41F0018
+  expected_values:
+    AUDI_RUNTM: 24
+- response: 7E80562F41F0019
+  expected_values:
+    AUDI_RUNTM: 25
+- response: 7E80562F41F0036
+  expected_values:
+    AUDI_RUNTM: 54
+- response: 7E80562F41F0054
+  expected_values:
+    AUDI_RUNTM: 84
+- response: 7E80562F41F0068
+  expected_values:
+    AUDI_RUNTM: 104
+- response: 7E80562F41F0072
+  expected_values:
+    AUDI_RUNTM: 114
+- response: 7E80562F41F0086
+  expected_values:
+    AUDI_RUNTM: 134
+- response: 7E80562F41F0090
+  expected_values:
+    AUDI_RUNTM: 144
+- response: 7E80562F41F0091
+  expected_values:
+    AUDI_RUNTM: 145
+- response: 7E80562F41F0095
+  expected_values:
+    AUDI_RUNTM: 149
+- response: 7E80562F41F00A4
+  expected_values:
+    AUDI_RUNTM: 164
+- response: 7E80562F41F00AE
+  expected_values:
+    AUDI_RUNTM: 174
+- response: 7E80562F41F00B2
+  expected_values:
+    AUDI_RUNTM: 178
+- response: 7E80562F41F00B6
+  expected_values:
+    AUDI_RUNTM: 182
+- response: 7E80562F41F00C0
+  expected_values:
+    AUDI_RUNTM: 192
+- response: 7E80562F41F00C2
+  expected_values:
+    AUDI_RUNTM: 194
+- response: 7E80562F41F00CD
+  expected_values:
+    AUDI_RUNTM: 205
+- response: 7E80562F41F00D1
+  expected_values:
+    AUDI_RUNTM: 209
+- response: 7E80562F41F00D4
+  expected_values:
+    AUDI_RUNTM: 212
+- response: 7E80562F41F00DE
+  expected_values:
+    AUDI_RUNTM: 222
+- response: 7E80562F41F00E0
+  expected_values:
+    AUDI_RUNTM: 224
+- response: 7E80562F41F00EA
+  expected_values:
+    AUDI_RUNTM: 234
+- response: 7E80562F41F00EB
+  expected_values:
+    AUDI_RUNTM: 235
+- response: 7E80562F41F00EE
+  expected_values:
+    AUDI_RUNTM: 238
+- response: 7E80562F41F00F2
+  expected_values:
+    AUDI_RUNTM: 242
+- response: 7E80562F41F00FD
+  expected_values:
+    AUDI_RUNTM: 253
+- response: 7E80562F41F00FE
+  expected_values:
+    AUDI_RUNTM: 254
+- response: 7E80562F41F0108
+  expected_values:
+    AUDI_RUNTM: 264
+- response: 7E80562F41F0109
+  expected_values:
+    AUDI_RUNTM: 265
+- response: 7E80562F41F010D
+  expected_values:
+    AUDI_RUNTM: 269
+- response: 7E80562F41F0110
+  expected_values:
+    AUDI_RUNTM: 272
+- response: 7E80562F41F011A
+  expected_values:
+    AUDI_RUNTM: 282
+- response: 7E80562F41F011C
+  expected_values:
+    AUDI_RUNTM: 284
+- response: 7E80562F41F0126
+  expected_values:
+    AUDI_RUNTM: 294
+- response: 7E80562F41F0127
+  expected_values:
+    AUDI_RUNTM: 295
+- response: 7E80562F41F012A
+  expected_values:
+    AUDI_RUNTM: 298
+- response: 7E80562F41F012E
+  expected_values:
+    AUDI_RUNTM: 302
+- response: 7E80562F41F0139
+  expected_values:
+    AUDI_RUNTM: 313
+- response: 7E80562F41F013A
+  expected_values:
+    AUDI_RUNTM: 314
+- response: 7E80562F41F0149
+  expected_values:
+    AUDI_RUNTM: 329
+- response: 7E80562F41F014C
+  expected_values:
+    AUDI_RUNTM: 332
+- response: 7E80562F41F0157
+  expected_values:
+    AUDI_RUNTM: 343
+- response: 7E80562F41F0158
+  expected_values:
+    AUDI_RUNTM: 344
+- response: 7E80562F41F0166
+  expected_values:
+    AUDI_RUNTM: 358
+- response: 7E80562F41F016A
+  expected_values:
+    AUDI_RUNTM: 362
+- response: 7E80562F41F0175
+  expected_values:
+    AUDI_RUNTM: 373
+- response: 7E80562F41F0176
+  expected_values:
+    AUDI_RUNTM: 374
+- response: 7E80562F41F0185
+  expected_values:
+    AUDI_RUNTM: 389
+- response: 7E80562F41F0188
+  expected_values:
+    AUDI_RUNTM: 392
+- response: 7E80562F41F0193
+  expected_values:
+    AUDI_RUNTM: 403
+- response: 7E80562F41F01A2
+  expected_values:
+    AUDI_RUNTM: 418
+- response: 7E80562F41F01A6
+  expected_values:
+    AUDI_RUNTM: 422
+- response: 7E80562F41F01B1
+  expected_values:
+    AUDI_RUNTM: 433
+- response: 7E80562F41F01C4
+  expected_values:
+    AUDI_RUNTM: 452
+- response: 7E80562F41F01CF
+  expected_values:
+    AUDI_RUNTM: 463
