@@ -2,60 +2,273 @@ command_id: 7E5.7ED.221E3B
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7ED05621E3B0C00
+  expected_values:
+    AUDI_HVBAT_VOLTS: 768
+- response: 7ED05621E3B0C53
+  expected_values:
+    AUDI_HVBAT_VOLTS: 788.75
+- response: 7ED05621E3B0C82
+  expected_values:
+    AUDI_HVBAT_VOLTS: 800.5
 - response: 7ED05621E3B0C87
   expected_values:
     AUDI_HVBAT_VOLTS: 801.75
 - response: 7ED05621E3B0CAF
   expected_values:
     AUDI_HVBAT_VOLTS: 811.75
+- response: 7ED05621E3B0CD2
+  expected_values:
+    AUDI_HVBAT_VOLTS: 820.5
+- response: 7ED05621E3B0CD5
+  expected_values:
+    AUDI_HVBAT_VOLTS: 821.25
+- response: 7ED05621E3B0CEE
+  expected_values:
+    AUDI_HVBAT_VOLTS: 827.5
+- response: 7ED05621E3B0CF3
+  expected_values:
+    AUDI_HVBAT_VOLTS: 828.75
+- response: 7ED05621E3B0D04
+  expected_values:
+    AUDI_HVBAT_VOLTS: 833
+- response: 7ED05621E3B0D13
+  expected_values:
+    AUDI_HVBAT_VOLTS: 836.75
+- response: 7ED05621E3B0D1B
+  expected_values:
+    AUDI_HVBAT_VOLTS: 838.75
+- response: 7ED05621E3B0D1D
+  expected_values:
+    AUDI_HVBAT_VOLTS: 839.25
+- response: 7ED05621E3B0D25
+  expected_values:
+    AUDI_HVBAT_VOLTS: 841.25
+- response: 7ED05621E3B0D27
+  expected_values:
+    AUDI_HVBAT_VOLTS: 841.75
+- response: 7ED05621E3B0D2C
+  expected_values:
+    AUDI_HVBAT_VOLTS: 843
+- response: 7ED05621E3B0D2F
+  expected_values:
+    AUDI_HVBAT_VOLTS: 843.75
+- response: 7ED05621E3B0D3B
+  expected_values:
+    AUDI_HVBAT_VOLTS: 846.75
+- response: 7ED05621E3B0D3E
+  expected_values:
+    AUDI_HVBAT_VOLTS: 847.5
+- response: 7ED05621E3B0D43
+  expected_values:
+    AUDI_HVBAT_VOLTS: 848.75
+- response: 7ED05621E3B0D45
+  expected_values:
+    AUDI_HVBAT_VOLTS: 849.25
+- response: 7ED05621E3B0D48
+  expected_values:
+    AUDI_HVBAT_VOLTS: 850
+- response: 7ED05621E3B0D4D
+  expected_values:
+    AUDI_HVBAT_VOLTS: 851.25
+- response: 7ED05621E3B0D4F
+  expected_values:
+    AUDI_HVBAT_VOLTS: 851.75
+- response: 7ED05621E3B0D54
+  expected_values:
+    AUDI_HVBAT_VOLTS: 853
+- response: 7ED05621E3B0D57
+  expected_values:
+    AUDI_HVBAT_VOLTS: 853.75
+- response: 7ED05621E3B0D5C
+  expected_values:
+    AUDI_HVBAT_VOLTS: 855
+- response: 7ED05621E3B0D5E
+  expected_values:
+    AUDI_HVBAT_VOLTS: 855.5
+- response: 7ED05621E3B0D63
+  expected_values:
+    AUDI_HVBAT_VOLTS: 856.75
+- response: 7ED05621E3B0D66
+  expected_values:
+    AUDI_HVBAT_VOLTS: 857.5
 - response: 7ED05621E3B0D68
   expected_values:
     AUDI_HVBAT_VOLTS: 858
+- response: 7ED05621E3B0D75
+  expected_values:
+    AUDI_HVBAT_VOLTS: 861.25
+- response: 7ED05621E3B0D77
+  expected_values:
+    AUDI_HVBAT_VOLTS: 861.75
 - response: 7ED05621E3B0D7A
   expected_values:
     AUDI_HVBAT_VOLTS: 862.5
+- response: 7ED05621E3B0D7C
+  expected_values:
+    AUDI_HVBAT_VOLTS: 863
+- response: 7ED05621E3B0D7F
+  expected_values:
+    AUDI_HVBAT_VOLTS: 863.75
+- response: 7ED05621E3B0D84
+  expected_values:
+    AUDI_HVBAT_VOLTS: 865
+- response: 7ED05621E3B0D86
+  expected_values:
+    AUDI_HVBAT_VOLTS: 865.5
+- response: 7ED05621E3B0D89
+  expected_values:
+    AUDI_HVBAT_VOLTS: 866.25
 - response: 7ED05621E3B0D8E
   expected_values:
     AUDI_HVBAT_VOLTS: 867.5
+- response: 7ED05621E3B0D95
+  expected_values:
+    AUDI_HVBAT_VOLTS: 869.25
+- response: 7ED05621E3B0D98
+  expected_values:
+    AUDI_HVBAT_VOLTS: 870
+- response: 7ED05621E3B0D9D
+  expected_values:
+    AUDI_HVBAT_VOLTS: 871.25
+- response: 7ED05621E3B0D9F
+  expected_values:
+    AUDI_HVBAT_VOLTS: 871.75
 - response: 7ED05621E3B0DA4
   expected_values:
     AUDI_HVBAT_VOLTS: 873
+- response: 7ED05621E3B0DA9
+  expected_values:
+    AUDI_HVBAT_VOLTS: 874.25
+- response: 7ED05621E3B0DAE
+  expected_values:
+    AUDI_HVBAT_VOLTS: 875.5
+- response: 7ED05621E3B0DB1
+  expected_values:
+    AUDI_HVBAT_VOLTS: 876.25
+- response: 7ED05621E3B0DB8
+  expected_values:
+    AUDI_HVBAT_VOLTS: 878
+- response: 7ED05621E3B0DBD
+  expected_values:
+    AUDI_HVBAT_VOLTS: 879.25
+- response: 7ED05621E3B0DC0
+  expected_values:
+    AUDI_HVBAT_VOLTS: 880
 - response: 7ED05621E3B0DC2
   expected_values:
     AUDI_HVBAT_VOLTS: 880.5
+- response: 7ED05621E3B0DC7
+  expected_values:
+    AUDI_HVBAT_VOLTS: 881.75
+- response: 7ED05621E3B0DCA
+  expected_values:
+    AUDI_HVBAT_VOLTS: 882.5
+- response: 7ED05621E3B0DD1
+  expected_values:
+    AUDI_HVBAT_VOLTS: 884.25
 - response: 7ED05621E3B0DD4
   expected_values:
     AUDI_HVBAT_VOLTS: 885
+- response: 7ED05621E3B0DD6
+  expected_values:
+    AUDI_HVBAT_VOLTS: 885.5
+- response: 7ED05621E3B0DD9
+  expected_values:
+    AUDI_HVBAT_VOLTS: 886.25
+- response: 7ED05621E3B0DE0
+  expected_values:
+    AUDI_HVBAT_VOLTS: 888
 - response: 7ED05621E3B0DE3
   expected_values:
     AUDI_HVBAT_VOLTS: 888.75
+- response: 7ED05621E3B0DE8
+  expected_values:
+    AUDI_HVBAT_VOLTS: 890
+- response: 7ED05621E3B0DEA
+  expected_values:
+    AUDI_HVBAT_VOLTS: 890.5
+- response: 7ED05621E3B0DEF
+  expected_values:
+    AUDI_HVBAT_VOLTS: 891.75
+- response: 7ED05621E3B0DF2
+  expected_values:
+    AUDI_HVBAT_VOLTS: 892.5
+- response: 7ED05621E3B0DF7
+  expected_values:
+    AUDI_HVBAT_VOLTS: 893.75
+- response: 7ED05621E3B0DF9
+  expected_values:
+    AUDI_HVBAT_VOLTS: 894.25
+- response: 7ED05621E3B0DFE
+  expected_values:
+    AUDI_HVBAT_VOLTS: 895.5
+- response: 7ED05621E3B0E01
+  expected_values:
+    AUDI_HVBAT_VOLTS: 896.25
+- response: 7ED05621E3B0E03
+  expected_values:
+    AUDI_HVBAT_VOLTS: 896.75
 - response: 7ED05621E3B0E08
   expected_values:
     AUDI_HVBAT_VOLTS: 898
 - response: 7ED05621E3B0E10
   expected_values:
     AUDI_HVBAT_VOLTS: 900
+- response: 7ED05621E3B0E12
+  expected_values:
+    AUDI_HVBAT_VOLTS: 900.5
 - response: 7ED05621E3B0E17
   expected_values:
     AUDI_HVBAT_VOLTS: 901.75
+- response: 7ED05621E3B0E1A
+  expected_values:
+    AUDI_HVBAT_VOLTS: 902.5
 - response: 7ED05621E3B0E1C
   expected_values:
     AUDI_HVBAT_VOLTS: 903
 - response: 7ED05621E3B0E29
   expected_values:
     AUDI_HVBAT_VOLTS: 906.25
+- response: 7ED05621E3B0E2B
+  expected_values:
+    AUDI_HVBAT_VOLTS: 906.75
 - response: 7ED05621E3B0E30
   expected_values:
     AUDI_HVBAT_VOLTS: 908
+- response: 7ED05621E3B0E33
+  expected_values:
+    AUDI_HVBAT_VOLTS: 908.75
 - response: 7ED05621E3B0E38
   expected_values:
     AUDI_HVBAT_VOLTS: 910
+- response: 7ED05621E3B0E3A
+  expected_values:
+    AUDI_HVBAT_VOLTS: 910.5
+- response: 7ED05621E3B0E42
+  expected_values:
+    AUDI_HVBAT_VOLTS: 912.5
+- response: 7ED05621E3B0E49
+  expected_values:
+    AUDI_HVBAT_VOLTS: 914.25
 - response: 7ED05621E3B0E51
   expected_values:
     AUDI_HVBAT_VOLTS: 916.25
+- response: 7ED05621E3B0E53
+  expected_values:
+    AUDI_HVBAT_VOLTS: 916.75
 - response: 7ED05621E3B0E56
   expected_values:
     AUDI_HVBAT_VOLTS: 917.5
+- response: 7ED05621E3B0E58
+  expected_values:
+    AUDI_HVBAT_VOLTS: 918
+- response: 7ED05621E3B0E60
+  expected_values:
+    AUDI_HVBAT_VOLTS: 920
+- response: 7ED05621E3B0E79
+  expected_values:
+    AUDI_HVBAT_VOLTS: 926.25
 - response: 7ED05621E3B0E7E
   expected_values:
     AUDI_HVBAT_VOLTS: 927.5
@@ -80,9 +293,15 @@ test_cases:
 - response: 7ED05621E3B0EA3
   expected_values:
     AUDI_HVBAT_VOLTS: 936.75
+- response: 7ED05621E3B0EAD
+  expected_values:
+    AUDI_HVBAT_VOLTS: 939.25
 - response: 7ED05621E3B0EB0
   expected_values:
     AUDI_HVBAT_VOLTS: 940
+- response: 7ED05621E3B0EBC
+  expected_values:
+    AUDI_HVBAT_VOLTS: 943
 - response: 7ED05621E3B0EC1
   expected_values:
     AUDI_HVBAT_VOLTS: 944.25
@@ -101,6 +320,9 @@ test_cases:
 - response: 7ED05621E3B0ED3
   expected_values:
     AUDI_HVBAT_VOLTS: 948.75
+- response: 7ED05621E3B0ED5
+  expected_values:
+    AUDI_HVBAT_VOLTS: 949.25
 - response: 7ED05621E3B0ED8
   expected_values:
     AUDI_HVBAT_VOLTS: 950
