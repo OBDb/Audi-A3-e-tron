@@ -4,193 +4,735 @@ extended_addressing_enabled: false
 test_cases:
 - response: |-
     7E8037F2278
+    7E80562116404E7
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 12.55
+- response: |-
+    7E8037F2278
+    7E805621164054B
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 13.55
+- response: |-
+    7E8037F2278
+    7E8056211640570
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 13.92
+- response: |-
+    7E8037F2278
+    7E805621164057D
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.05
+- response: |-
+    7E8037F2278
+    7E8056211640583
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.11
+- response: |-
+    7E8037F2278
+    7E8056211640589
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.17
+- response: |-
+    7E8037F2278
+    7E80562116405A8
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.48
+- response: |-
+    7E8037F2278
+    7E80562116405B5
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.61
+- response: |-
+    7E8037F2278
+    7E80562116405CE
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.86
+- response: |-
+    7E8037F2278
+    7E805621164060C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.48
+- response: |-
+    7E8037F2278
+    7E8056211640613
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.55
+- response: |-
+    7E8037F2278
+    7E8056211640619
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.61
+- response: |-
+    7E8037F2278
+    7E8056211640645
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 16.05
+- response: |-
+    7E8037F2278
+    7E8056211640657
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 16.23
+- response: |-
+    7E8037F2278
+    7E80562116406C2
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 17.3
+- response: |-
+    7E8037F2278
+    7E805621164090D
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 23.17
+- response: |-
+    7E8037F2278
+    7E8056211640A1A
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 25.86
+- response: |-
+    7E8037F2278
+    7E8056211640D9E
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 34.86
+- response: |-
+    7E8037F2278
+    7E8056211640E2E
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 36.3
+- response: |-
+    7E8037F2278
+    7E8056211640E3A
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 36.42
+- response: |-
+    7E8037F2278
+    7E8056211640E53
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 36.67
+- response: |-
+    7E8037F2278
+    7E8056211640F8A
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 39.78
+- response: |-
+    7E8037F2278
+    7E805621164110E
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 43.66
+- response: |-
+    7E8037F2278
+    7E805621164119F
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.11
+- response: |-
+    7E8037F2278
+    7E80562116411D0
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.6
+- response: |-
+    7E8037F2278
+    7E805621164120E
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.22
+- response: |-
+    7E8037F2278
+    7E8056211641222
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.42
+- response: |-
+    7E8037F2278
+    7E805621164124E
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.86
+- response: |-
+    7E8037F2278
+    7E8056211641253
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.91
+- response: |-
+    7E8037F2278
+    7E8056211641261
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.05
+- response: |-
+    7E8037F2278
+    7E805621164126D
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.17
+- response: |-
+    7E8037F2278
+    7E8056211641286
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.42
+- response: |-
+    7E8037F2278
+    7E805621164128C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.48
+- response: |-
+    7E8037F2278
     7E805621164165B
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 57.23
+    AUDI_HVBAT_SOC_DISP_V2: 57.23
+- response: |-
+    7E8037F2278
+    7E80562116416B9
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 58.17
 - response: |-
     7E8037F2278
     7E8056211641849
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 62.17
+    AUDI_HVBAT_SOC_DISP_V2: 62.17
 - response: |-
     7E8037F2278
     7E8056211641B12
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 69.3
+    AUDI_HVBAT_SOC_DISP_V2: 69.3
 - response: |-
     7E8037F2278
     7E80562116422F4
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 89.48
+    AUDI_HVBAT_SOC_DISP_V2: 89.48
 - response: |-
     7E8037F2278
     7E805621164233F
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 90.23
+    AUDI_HVBAT_SOC_DISP_V2: 90.23
 - response: |-
     7E8037F2278
     7E8056211642391
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 91.05
+    AUDI_HVBAT_SOC_DISP_V2: 91.05
 - response: |-
     7E8037F2278
     7E805621164241F
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 92.47
+    AUDI_HVBAT_SOC_DISP_V2: 92.47
 - response: |-
     7E8037F2278
     7E8056211642459
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 93.05
+    AUDI_HVBAT_SOC_DISP_V2: 93.05
 - response: |-
     7E8037F2278
     7E80562116424F5
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 94.61
+    AUDI_HVBAT_SOC_DISP_V2: 94.61
+- response: '7E8056211640425'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 10.61
+- response: 7E805621164045C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 11.16
+- response: '7E8056211640470'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 11.36
+- response: 7E805621164047C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 11.48
+- response: '7E8056211640489'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 11.61
+- response: '7E8056211640494'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 11.72
+- response: 7E805621164049A
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 11.78
+- response: 7E80562116404AE
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 11.98
+- response: 7E805621164054B
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 13.55
+- response: '7E8056211640551'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 13.61
+- response: '7E8056211640556'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 13.66
+- response: 7E805621164056A
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 13.86
+- response: '7E8056211640570'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 13.92
+- response: 7E805621164057D
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.05
+- response: '7E8056211640583'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.11
+- response: '7E8056211640589'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.17
+- response: 7E805621164058F
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.23
+- response: '7E8056211640596'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.3
+- response: 7E805621164059B
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.35
+- response: 7E80562116405A1
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.41
+- response: 7E80562116405AF
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.55
+- response: 7E80562116405B5
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.61
+- response: 7E80562116405BB
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.67
+- response: 7E80562116405C1
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.73
+- response: 7E80562116405C8
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.8
+- response: 7E80562116405D4
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.92
+- response: 7E80562116405D9
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 14.97
+- response: 7E80562116405DF
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.03
+- response: 7E80562116405E7
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.11
+- response: 7E80562116405F3
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.23
+- response: '7E8056211640600'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.36
+- response: '7E8056211640606'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.42
+- response: 7E805621164060C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.48
+- response: '7E8056211640613'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.55
+- response: '7E8056211640619'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.61
+- response: 7E805621164061E
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.66
+- response: 7E805621164062C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.8
+- response: '7E8056211640638'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 15.92
+- response: 7E805621164064B
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 16.11
+- response: '7E8056211640657'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 16.23
+- response: '7E8056211640663'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 16.35
+- response: 7E805621164069C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 16.92
+- response: 7E80562116406AF
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 17.11
+- response: 7E80562116406BB
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 17.23
+- response: 7E80562116406C8
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 17.36
+- response: 7E80562116406CE
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 17.42
+- response: 7E80562116406E0
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 17.6
+- response: 7E80562116406F4
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 17.8
+- response: 7E80562116407A8
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 19.6
+- response: 7E80562116407B5
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 19.73
+- response: '7E8056211640877'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 21.67
+- response: '7E8056211640952'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 23.86
+- response: '7E8056211640970'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 24.16
+- response: 7E80562116409F3
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 25.47
+- response: 7E8056211640AAF
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 27.35
+- response: 7E8056211640AF3
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 28.03
+- response: 7E8056211640B4C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 28.92
+- response: 7E8056211640B59
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 29.05
+- response: 7E8056211640B97
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 29.67
+- response: 7E8056211640BC9
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 30.17
+- response: 7E8056211640BEF
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 30.55
+- response: 7E8056211640C46
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 31.42
+- response: 7E8056211640C6C
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 31.8
+- response: 7E8056211640CF5
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 33.17
+- response: 7E8056211640D84
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 34.6
+- response: 7E8056211640D8B
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 34.67
+- response: 7E8056211640D91
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 34.73
+- response: 7E8056211640D98
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 34.8
+- response: 7E8056211640DA4
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 34.92
+- response: 7E8056211640DAA
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 34.98
+- response: 7E8056211640DB1
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 35.05
+- response: 7E8056211640DBC
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 35.16
+- response: 7E8056211640DE3
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 35.55
+- response: 7E8056211640DEF
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 35.67
+- response: 7E8056211640E09
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 35.93
+- response: 7E8056211640E21
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 36.17
+- response: 7E8056211640E45
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 36.53
 - response: 7E8056211640EC2
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 37.78
+    AUDI_HVBAT_SOC_DISP_V2: 37.78
+- response: 7E8056211640ED6
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 37.98
+- response: 7E8056211640EEF
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 38.23
+- response: 7E8056211640F15
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 38.61
+- response: 7E8056211640F53
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 39.23
+- response: 7E8056211640F73
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 39.55
+- response: 7E8056211640FD7
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 40.55
 - response: 7E8056211640FF0
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 40.8
+    AUDI_HVBAT_SOC_DISP_V2: 40.8
+- response: '7E8056211641002'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 40.98
+- response: '7E8056211641066'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 41.98
+- response: 7E805621164107F
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 42.23
+- response: 7E80562116410DD
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 43.17
+- response: 7E80562116410F0
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 43.36
+- response: 7E80562116410FC
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 43.48
+- response: '7E8056211641141'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 44.17
+- response: '7E8056211641199'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.05
+- response: 7E80562116411AB
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.23
+- response: 7E80562116411B8
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.36
+- response: 7E80562116411CB
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.55
+- response: 7E80562116411D0
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.6
+- response: 7E80562116411D6
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.66
+- response: 7E80562116411F6
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 45.98
+- response: 7E80562116411FD
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.05
 - response: '7E8056211641222'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 46.42
+    AUDI_HVBAT_SOC_DISP_V2: 46.42
+- response: '7E8056211641228'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.48
+- response: '7E8056211641235'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.61
+- response: '7E8056211641241'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.73
+- response: '7E8056211641248'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.8
+- response: 7E805621164124E
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.86
+- response: '7E8056211641253'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.91
+- response: '7E8056211641259'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 46.97
+- response: '7E8056211641261'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.05
+- response: '7E8056211641267'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.11
+- response: '7E8056211641273'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.23
+- response: 7E805621164127A
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.3
+- response: '7E8056211641280'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.36
+- response: '7E8056211641298'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 47.6
+- response: 7E80562116412FD
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 48.61
+- response: '7E8056211641310'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 48.8
+- response: '7E8056211641429'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 51.61
 - response: 7E80562116414C5
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 53.17
+    AUDI_HVBAT_SOC_DISP_V2: 53.17
+- response: '7E8056211641548'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 54.48
 - response: 7E80562116415B9
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 55.61
+    AUDI_HVBAT_SOC_DISP_V2: 55.61
 - response: 7E80562116415C5
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 55.73
+    AUDI_HVBAT_SOC_DISP_V2: 55.73
 - response: 7E80562116417C0
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 60.8
+    AUDI_HVBAT_SOC_DISP_V2: 60.8
 - response: '7E8056211641894'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 62.92
+    AUDI_HVBAT_SOC_DISP_V2: 62.92
+- response: 7E80562116418A1
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 63.05
 - response: 7E8056211641AF2
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 68.98
+    AUDI_HVBAT_SOC_DISP_V2: 68.98
+- response: 7E8056211641B05
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 69.17
 - response: 7E8056211641B18
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 69.36
+    AUDI_HVBAT_SOC_DISP_V2: 69.36
 - response: 7E8056211641B6F
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 70.23
+    AUDI_HVBAT_SOC_DISP_V2: 70.23
 - response: 7E8056211641C2B
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 72.11
+    AUDI_HVBAT_SOC_DISP_V2: 72.11
 - response: 7E8056211641CDA
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 73.86
+    AUDI_HVBAT_SOC_DISP_V2: 73.86
+- response: 7E8056211641CE0
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 73.92
 - response: 7E8056211641D38
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 74.8
+    AUDI_HVBAT_SOC_DISP_V2: 74.8
 - response: 7E8056211641DA8
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 75.92
+    AUDI_HVBAT_SOC_DISP_V2: 75.92
 - response: 7E8056211641DD4
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 76.36
+    AUDI_HVBAT_SOC_DISP_V2: 76.36
 - response: 7E8056211641E6A
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 77.86
+    AUDI_HVBAT_SOC_DISP_V2: 77.86
+- response: 7E8056211641E70
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 77.92
 - response: 7E8056211641E88
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 78.16
+    AUDI_HVBAT_SOC_DISP_V2: 78.16
 - response: 7E8056211641E8E
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 78.22
+    AUDI_HVBAT_SOC_DISP_V2: 78.22
 - response: 7E8056211641E9C
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 78.36
+    AUDI_HVBAT_SOC_DISP_V2: 78.36
 - response: 7E8056211641EE7
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 79.11
+    AUDI_HVBAT_SOC_DISP_V2: 79.11
 - response: 7E8056211641EED
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 79.17
+    AUDI_HVBAT_SOC_DISP_V2: 79.17
 - response: 7E8056211641F00
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 79.36
+    AUDI_HVBAT_SOC_DISP_V2: 79.36
 - response: 7E8056211641F45
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 80.05
+    AUDI_HVBAT_SOC_DISP_V2: 80.05
 - response: 7E8056211641F5E
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 80.3
+    AUDI_HVBAT_SOC_DISP_V2: 80.3
 - response: 7E8056211641F70
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 80.48
+    AUDI_HVBAT_SOC_DISP_V2: 80.48
+- response: '7E8056211642100'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 84.48
 - response: '7E8056211642177'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 85.67
+    AUDI_HVBAT_SOC_DISP_V2: 85.67
 - response: '7E8056211642190'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 85.92
+    AUDI_HVBAT_SOC_DISP_V2: 85.92
 - response: 7E805621164219B
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 86.03
+    AUDI_HVBAT_SOC_DISP_V2: 86.03
 - response: 7E80562116421BC
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 86.36
+    AUDI_HVBAT_SOC_DISP_V2: 86.36
 - response: 7E80562116421E1
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 86.73
+    AUDI_HVBAT_SOC_DISP_V2: 86.73
 - response: 7E80562116421E8
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 86.8
+    AUDI_HVBAT_SOC_DISP_V2: 86.8
 - response: '7E8056211642213'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 87.23
+    AUDI_HVBAT_SOC_DISP_V2: 87.23
 - response: '7E8056211642218'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 87.28
+    AUDI_HVBAT_SOC_DISP_V2: 87.28
 - response: '7E8056211642226'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 87.42
+    AUDI_HVBAT_SOC_DISP_V2: 87.42
+- response: '7E8056211642245'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 87.73
 - response: '7E8056211642252'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 87.86
+    AUDI_HVBAT_SOC_DISP_V2: 87.86
+- response: 7E80562116422E8
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 89.36
+- response: '7E8056211642319'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 89.85
 - response: '7E8056211642358'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 90.48
+    AUDI_HVBAT_SOC_DISP_V2: 90.48
 - response: 7E80562116423A2
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 91.22
+    AUDI_HVBAT_SOC_DISP_V2: 91.22
 - response: 7E80562116423E1
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 91.85
+    AUDI_HVBAT_SOC_DISP_V2: 91.85
 - response: 7E80562116423FB
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 92.11
+    AUDI_HVBAT_SOC_DISP_V2: 92.11
+- response: '7E8056211642414'
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 92.36
 - response: '7E8056211642440'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 92.8
+    AUDI_HVBAT_SOC_DISP_V2: 92.8
 - response: 7E80562116424A9
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 93.85
+    AUDI_HVBAT_SOC_DISP_V2: 93.85
 - response: 7E80562116424B0
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 93.92
+    AUDI_HVBAT_SOC_DISP_V2: 93.92
 - response: 7E80562116424BD
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 94.05
+    AUDI_HVBAT_SOC_DISP_V2: 94.05
 - response: 7E80562116424C3
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 94.11
+    AUDI_HVBAT_SOC_DISP_V2: 94.11
 - response: 7E80562116424C9
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 94.17
+    AUDI_HVBAT_SOC_DISP_V2: 94.17
 - response: 7E80562116424CF
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 94.23
+    AUDI_HVBAT_SOC_DISP_V2: 94.23
 - response: 7E80562116424DC
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 94.36
+    AUDI_HVBAT_SOC_DISP_V2: 94.36
 - response: 7E80562116424E1
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 94.41
+    AUDI_HVBAT_SOC_DISP_V2: 94.41

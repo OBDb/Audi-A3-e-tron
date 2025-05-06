@@ -8,13 +8,31 @@ test_cases:
 - response: 7ED06621E3D020526
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0206AC
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D020D0A
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D020F1C
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02141C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D021A98
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D021E6C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D02209C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02220E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0223EE
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D022452
@@ -26,19 +44,61 @@ test_cases:
 - response: 7ED06621E3D022858
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D022AF6
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D022C7C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D022D12
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D022DEE
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D022EB6
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02305A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D023136
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D023190
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D023258
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D023424
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0235AA
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0235D2
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D023622
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0237D0
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0237E4
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0238AC
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02399C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0239D8
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D023B68
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D023DDE
@@ -50,25 +110,91 @@ test_cases:
 - response: 7ED06621E3D023ECE
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D023EEC
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D023F50
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D023F78
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D023FAA
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024054
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024180
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024194
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0241BC
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0241C6
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0241EE
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024234
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02427A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024306
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02437E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024450
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0244AA
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024518
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D02457C
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0245A4
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0245E0
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0245F4
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D02463A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024644
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024658
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024680
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D02468A
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0246BC
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0246DA
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0246EE
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D02470C
@@ -77,19 +203,46 @@ test_cases:
 - response: 7ED06621E3D024716
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02472A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0247A2
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0247D4
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0247E8
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0247FC
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02481A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024838
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024842
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024860
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02486A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024874
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024892
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0248CE
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0248F6
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024900
@@ -99,6 +252,12 @@ test_cases:
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024914
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02491E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024932
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024946
@@ -113,10 +272,40 @@ test_cases:
 - response: 7ED06621E3D02496E
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024982
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024996
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0249AA
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0249BE
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0249D2
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0249E6
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0249F0
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024A04
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024A18
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024A2C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024A36
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024A4A
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024A54
@@ -125,13 +314,49 @@ test_cases:
 - response: 7ED06621E3D024A68
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024A7C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024AA4
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024AB8
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024AD6
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024BB2
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024BEE
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024C02
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024C16
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024C8E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024CB6
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024D06
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024D1A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024D2E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024D4C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024DC4
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024E3C
@@ -140,16 +365,49 @@ test_cases:
 - response: 7ED06621E3D024E46
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024E50
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024E64
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024E82
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024E8C
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024EA0
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024EB4
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D024EFA
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024FB8
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025008
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02501C
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025076
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D02508A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0250EE
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025166
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0251B6
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0251FC
@@ -158,18 +416,120 @@ test_cases:
 - response: 7ED06621E3D025242
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02526A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0252D8
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0252E2
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02536E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0253C8
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02542C
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D0254CC
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0254F4
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025508
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025558
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0256F2
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02572E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025756
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02577E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025846
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025896
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0258AA
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025936
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02595E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025986
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025A44
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025ABC
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025BFC
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D025C74
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025C88
   expected_values:
     AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D025D46
   expected_values:
     AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D025D82
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
 - response: 7ED06621E3D025F08
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D026098
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0260A2
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0262A0
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02635E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02639A
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0263C2
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0263D6
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D026BF6
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D027344
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D02748E
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D0276E6
   expected_values:
     AUDI_HVBAT_CURRENT: -200
