@@ -6,10 +6,6 @@ test_cases:
   expected_values:
     AUDI_ODO_2_V4: 99725335
     AUDI_ODO_HD: 99725335
-- response: 7E80762116005F1F1FE
-  expected_values:
-    AUDI_ODO_2_V4: 99742206
-    AUDI_ODO_HD: 99742206
 - response: 7E80762116005F1FF77
   expected_values:
     AUDI_ODO_2_V4: 99745655
@@ -18,14 +14,18 @@ test_cases:
   expected_values:
     AUDI_ODO_2_V4: 99745836
     AUDI_ODO_HD: 99745836
-- response: 7E80762116005F2042E
-  expected_values:
-    AUDI_ODO_2_V4: 99746862
-    AUDI_ODO_HD: 99746862
 - response: 7E80762116005F20E00
   expected_values:
     AUDI_ODO_2_V4: 99749376
     AUDI_ODO_HD: 99749376
+- response: 7E80762116005F3AAFE
+  expected_values:
+    AUDI_ODO_2_V4: 99855102
+    AUDI_ODO_HD: 99855102
+- response: 7E80762116005F402D6
+  expected_values:
+    AUDI_ODO_2_V4: 99877590
+    AUDI_ODO_HD: 99877590
 - response: 7E8076211600B8864E2
   expected_values:
     AUDI_ODO_2_V4: 193488098
