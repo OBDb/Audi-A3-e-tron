@@ -2,6 +2,9 @@ command_id: 710.77A.222AB2
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 77A07622AB266000600
+  expected_values:
+    AUDI_HVBAT_CAP: 1305.55137
 - response: 77A07622AB267000600
   expected_values:
     AUDI_HVBAT_CAP: 1318.35088

@@ -2,15 +2,18 @@ command_id: 7E0.7E8.221164
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80562116404E7
+- response: 7E805621164035D
   expected_values:
-    AUDI_HVBAT_SOC_DISP_V2: 12.55
+    AUDI_HVBAT_SOC_DISP_V2: 8.61
+- response: 7E805621164041F
+  expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 10.55
 - response: '7E8056211640600'
   expected_values:
     AUDI_HVBAT_SOC_DISP_V2: 15.36
 - response: 7E80562116411FD
   expected_values:
     AUDI_HVBAT_SOC_DISP_V2: 46.05
-- response: 7E805621164241F
+- response: 7E805621164251A
   expected_values:
-    AUDI_HVBAT_SOC_DISP_V2: 92.47
+    AUDI_HVBAT_SOC_DISP_V2: 94.98

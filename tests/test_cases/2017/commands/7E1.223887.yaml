@@ -2,12 +2,12 @@ command_id: 7E1.223887
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E90762388701F00E00
+- response: 7E90762388700F50E00
   expected_values:
-    AUDI_ODO_TCM_2_HD: 97894.5
-- response: 7E90762388702F20E00
+    AUDI_ODO_TCM_2_HD: 98022.4
+- response: 7E90762388705F60E00
   expected_values:
-    AUDI_ODO_TCM_2_HD: 97945.8
+    AUDI_ODO_TCM_2_HD: 98048.5
 - response: 7E90762388752121D00
   expected_values:
     AUDI_ODO_TCM_2_HD: 190523.4
