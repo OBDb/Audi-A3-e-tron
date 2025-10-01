@@ -1,16 +1,14 @@
 command_id: 7E0.2211BA
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E8056211BA1194
-  expected_values:
+- expected_values:
     AUDI_OIL_LEVEL: 18
-- response: 7E8056211BA3D01
-  expected_values:
-    AUDI_OIL_LEVEL: 62.468
-- response: 7E8056211BA44FF
-  expected_values:
+  response: 7E8056211BA1194
+- expected_values:
+    AUDI_OIL_LEVEL: 67.584
+  response: 7E8056211BA4200
+- expected_values:
     AUDI_OIL_LEVEL: 70.652
-- response: 7E8056211BA61F8
-  expected_values:
-    AUDI_OIL_LEVEL: 100.32
+  response: 7E8056211BA44FF
+- expected_values:
+    AUDI_OIL_LEVEL: 106.52
+  response: 7E8056211BA6806

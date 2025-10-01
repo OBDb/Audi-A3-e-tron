@@ -1,10 +1,8 @@
 command_id: 710.77A.222A0C
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 77A04622A0C40
-  expected_values:
-    AUDI_SSB_SOC: 64
-- response: 77A04622A0C4D
-  expected_values:
-    AUDI_SSB_SOC: 77
+- expected_values:
+    AUDI_SSB_SOC: 0
+  response: 77A04622A0C00
+- expected_values:
+    AUDI_SSB_SOC: 100
+  response: 77A04622A0C64

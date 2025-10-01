@@ -1,0 +1,5 @@
+command_id: 7E1.22101A
+test_cases:
+- expected_values:
+    AUDI_ODO_TCM_2: 75406
+  response: 7E90762101A8E260100
