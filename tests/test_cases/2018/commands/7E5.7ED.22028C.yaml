@@ -1,0 +1,5 @@
+command_id: 7E5.7ED.22028C
+test_cases:
+- expected_values:
+    AUDI_HVBAT_SOC_V2: 8.23529
+  response: 7ED0462028C15

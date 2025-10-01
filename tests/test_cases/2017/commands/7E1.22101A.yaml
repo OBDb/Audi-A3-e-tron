@@ -1,13 +1,14 @@
 command_id: 7E1.22101A
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E90762101A14860100
-  expected_values:
+- expected_values:
+    AUDI_ODO_TCM_2: 100096
+  response: 7E90762101A00870100
+- expected_values:
     AUDI_ODO_TCM_2: 99860
-- response: 7E90762101A4CF40200
-  expected_values:
+  response: 7E90762101A14860100
+- expected_values:
     AUDI_ODO_TCM_2: 193612
-- response: 7E90762101AEEF40200
-  expected_values:
-    AUDI_ODO_TCM_2: 193774
+  response: 7E90762101A4CF40200
+- expected_values:
+    AUDI_ODO_TCM_2: 100095
+  response: 7E90762101AFF860100
