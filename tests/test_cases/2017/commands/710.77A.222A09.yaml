@@ -8,7 +8,7 @@ test_cases:
   response: 77A07622A09000007FF
 - expected_values:
     AUDI_SSB_C: 0
-  response: 77A07622A09FFFF9430
+  response: 77A07622A09FFFF4E3A
 - expected_values:
     AUDI_SSB_C: 0
   response: 77A07622A09FFFFFF09

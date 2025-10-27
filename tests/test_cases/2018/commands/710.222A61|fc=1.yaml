@@ -1,4 +1,4 @@
-command_id: 710.77A.222A61|fc=1
+command_id: 710.222A61|fc=1
 test_cases:
 - expected_values:
     AUDI_SSB_TOTAL_CHARGE: 100
