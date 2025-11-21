@@ -1,0 +1,22 @@
+command_id: 744.7AE.221DDA|fc=1
+test_cases:
+- expected_values:
+    AUDI_OBC_T_A: -54.8
+  response: |-
+    7AE1009621DDA040002
+    7AE217C0226AAAAAAAA
+- expected_values:
+    AUDI_OBC_T_A: -54.8
+  response: |-
+    7AE1009621DDA040002
+    7AE21800226AAAAAAAA
+- expected_values:
+    AUDI_OBC_T_A: -54.8
+  response: |-
+    7AE1009621DDA040002
+    7AE218F0226AAAAAAAA
+- expected_values:
+    AUDI_OBC_T_A: -54.8
+  response: |-
+    7AE1009621DDA040002
+    7AE21940226AAAAAAAA
