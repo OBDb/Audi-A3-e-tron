@@ -1,0 +1,5 @@
+command_id: FC00.22028C
+test_cases:
+- expected_values:
+    AUDI_SOC: 8.4
+  response: 7ED0462028C15
