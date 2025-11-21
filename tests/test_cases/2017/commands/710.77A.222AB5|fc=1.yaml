@@ -1,0 +1,52 @@
+command_id: 710.77A.222AB5|fc=1
+test_cases:
+- expected_values:
+    AUDI_RANGE_EST_CAN: 23
+  response: |-
+    77A100D622AB5008500
+    77A216E001700000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 24
+  response: |-
+    77A100D622AB5008600
+    77A216E001800000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 25
+  response: |-
+    77A100D622AB5008700
+    77A216E001900000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 26
+  response: |-
+    77A100D622AB5008800
+    77A216E001A00000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 23
+  response: |-
+    77A100D622AB5008800
+    77A2171001700000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 26
+  response: |-
+    77A100D622AB5008900
+    77A216F001A00000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 26
+  response: |-
+    77A100D622AB5008A00
+    77A2170001A00000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 27
+  response: |-
+    77A100D622AB5008B00
+    77A2170001B00000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 23
+  response: |-
+    77A100D622AB5008B00
+    77A2174001700000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 29
+  response: |-
+    77A100D622AB5008D00
+    77A2170001D00000000
