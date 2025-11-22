@@ -1,0 +1,38 @@
+command_id: 7E5.221E2D|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 84
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D540025
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 84
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D540055
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 85
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D550025
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 86
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D560025
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 87
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D570025
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 88
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D580025
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 90
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D5A0025
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 91
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D5B0025
+- expected_values:
+    AUDI_BMS_CELL_SOC_MIN: 92
+    AUDI_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D5C0025
