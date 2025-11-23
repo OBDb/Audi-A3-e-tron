@@ -1,0 +1,8 @@
+command_id: FC00.FE007B.22189D|ta=7B,c=17
+test_cases:
+- expected_values:
+    AUDI_HVBAT_T_OUT: 473.875
+  response: 17FE007B0562189D7678
+- expected_values:
+    AUDI_HVBAT_T_OUT: 477.875
+  response: 17FE007B0562189D7778
