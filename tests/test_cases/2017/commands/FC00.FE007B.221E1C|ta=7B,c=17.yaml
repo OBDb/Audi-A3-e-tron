@@ -1,0 +1,11 @@
+command_id: FC00.FE007B.221E1C|ta=7B,c=17
+test_cases:
+- expected_values:
+    AUDI_HVBAT_I_LIM_DSCH: 49.8
+  response: 17FE007B05621E1C00F9
+- expected_values:
+    AUDI_HVBAT_I_LIM_DSCH: 51
+  response: 17FE007B05621E1C00FF
+- expected_values:
+    AUDI_HVBAT_I_LIM_DSCH: 51.2
+  response: 17FE007B05621E1C0100

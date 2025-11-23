@@ -1,0 +1,14 @@
+command_id: FC00.FE007B.221E2D|ta=7B,c=17
+test_cases:
+- expected_values:
+    AUDI_HVBAT_CELL_SOC_MIN: 58.88
+  response: 17FE007B06621E2D170050
+- expected_values:
+    AUDI_HVBAT_CELL_SOC_MIN: 89.6
+  response: 17FE007B06621E2D230006
+- expected_values:
+    AUDI_HVBAT_CELL_SOC_MIN: 100
+  response: 17FE007B06621E2D35005E
+- expected_values:
+    AUDI_HVBAT_CELL_SOC_MIN: 100
+  response: 17FE007B06621E2D580025

@@ -1,0 +1,8 @@
+command_id: 746.7B0.22F449|fc=1
+test_cases:
+- expected_values:
+    AUDI_APP_D: 14.90196
+  response: 7B00462F44926
+- expected_values:
+    AUDI_APP_D: 51.37255
+  response: 7B00462F44983

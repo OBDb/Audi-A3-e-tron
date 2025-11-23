@@ -1,0 +1,9 @@
+command_id: 713.77D.22180E|fc=1
+test_cases:
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
+    AUDI_BDD_ODO: 107662
+  response: 77D0762180E8001A48E
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
+  response: 77D0762180EB001A48E
