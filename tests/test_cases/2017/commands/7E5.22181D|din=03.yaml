@@ -1,0 +1,26 @@
+command_id: 7E5.22181D|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 64
+  response: 7ED0562181D7275
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 65
+  response: 7ED0562181D7374
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 65
+  response: 7ED0562181D7375
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 66
+  response: 7ED0562181D7474
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 68
+  response: 7ED0562181D7678
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 69
+  response: 7ED0562181D7777
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 69
+  response: 7ED0562181D7778
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 70
+  response: 7ED0562181D7877

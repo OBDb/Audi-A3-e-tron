@@ -1,0 +1,10 @@
+command_id: 746.7B0.222613|fc=1
+test_cases:
+- expected_values:
+    AUDI_CABIN_T: 26.1
+    AUDI_HVAC_INTERIOR_T: 26.1
+  response: 7B0056226130105
+- expected_values:
+    AUDI_CABIN_T: 29.4
+    AUDI_HVAC_INTERIOR_T: 29.4
+  response: 7B0056226130126
