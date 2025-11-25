@@ -1,9 +1,13 @@
 command_id: 7E5.7ED.221E0F|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_T_MIN: 17
-    AUDI_BMS_T_MIN_CELL: 12
-  response: 7ED05621E0F750C
+    AUDI_BMS_T_MIN: 14
+    AUDI_BMS_T_MIN_CELL: 48
+  response: 7ED05621E0F7230
+- expected_values:
+    AUDI_BMS_T_MIN: 15
+    AUDI_BMS_T_MIN_CELL: 0
+  response: 7ED05621E0F7300
 - expected_values:
     AUDI_BMS_T_MIN: 19
     AUDI_BMS_T_MIN_CELL: 84
