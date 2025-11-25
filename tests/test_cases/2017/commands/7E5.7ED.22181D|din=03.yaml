@@ -7,8 +7,8 @@ test_cases:
     AUDI_BMS_COOL_OUT_T: 68
   response: 7ED0562181D7670
 - expected_values:
-    AUDI_BMS_COOL_OUT_T: 72
-  response: 7ED0562181D7A7C
+    AUDI_BMS_COOL_OUT_T: 69
+  response: 7ED0562181D777E
 - expected_values:
     AUDI_BMS_COOL_OUT_T: 73
-  response: 7ED0562181D7B7B
+  response: 7ED0562181D7B79
