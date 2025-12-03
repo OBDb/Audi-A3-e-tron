@@ -1,6 +1,9 @@
 command_id: 7E5.7ED.22181D|din=03
 test_cases:
 - expected_values:
+    AUDI_BMS_COOL_OUT_T: 60
+  response: 7ED0562181D6E71
+- expected_values:
     AUDI_BMS_COOL_OUT_T: 64
   response: 7ED0562181D7275
 - expected_values:
