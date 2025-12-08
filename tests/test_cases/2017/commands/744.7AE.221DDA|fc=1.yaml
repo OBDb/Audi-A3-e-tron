@@ -9,12 +9,17 @@ test_cases:
     AUDI_OBC_T_A: -54.8
   response: |-
     7AE1009621DDA040002
-    7AE212F0226AAAAAAAA
+    7AE21080226AAAAAAAA
 - expected_values:
     AUDI_OBC_T_A: -54.8
   response: |-
     7AE1009621DDA040002
-    7AE21300226AAAAAAAA
+    7AE210F0226AAAAAAAA
+- expected_values:
+    AUDI_OBC_T_A: -54.8
+  response: |-
+    7AE1009621DDA040002
+    7AE21100226AAAAAAAA
 - expected_values:
     AUDI_OBC_T_A: -54.8
   response: |-

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_CHRGR_PWR_LOSS: 0
   response: 7AE046215E100
+- expected_values:
+    AUDI_CHRGR_PWR_LOSS: 140
+  response: 7AE046215E107
