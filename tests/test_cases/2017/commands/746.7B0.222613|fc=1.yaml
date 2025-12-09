@@ -5,10 +5,10 @@ test_cases:
     AUDI_HVAC_INTERIOR_T: 22.8
   response: 7B00562261300E4
 - expected_values:
-    AUDI_CABIN_T: 25.2
-    AUDI_HVAC_INTERIOR_T: 25.2
-  response: 7B00562261300FC
+    AUDI_CABIN_T: 25.4
+    AUDI_HVAC_INTERIOR_T: 25.4
+  response: 7B00562261300FE
 - expected_values:
-    AUDI_CABIN_T: 26.1
-    AUDI_HVAC_INTERIOR_T: 26.1
-  response: 7B0056226130105
+    AUDI_CABIN_T: 25.6
+    AUDI_HVAC_INTERIOR_T: 25.6
+  response: 7B0056226130100
