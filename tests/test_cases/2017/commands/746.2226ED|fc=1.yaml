@@ -12,3 +12,7 @@ test_cases:
     AUDI_AIR_POLUTION: -0.1
     AUDI_CLIMATE_AIR_POLUTION_LVL: -0.1
   response: 7B0046226EDFF
+- expected_values:
+    AUDI_AIR_POLUTION: 0
+    AUDI_CLIMATE_AIR_POLUTION_LVL: 0
+  response: 7EF046226ED00
