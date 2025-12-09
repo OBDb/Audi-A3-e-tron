@@ -9,4 +9,16 @@ test_cases:
   response: 77D0762180E8001A6C2
 - expected_values:
     AUDI_BDD_ACTIVE: 0
+  response: 77D0762180E8001A7EF
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
   response: 77D0762180EB001A48E
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
+  response: 77D0762180EB001A6C2
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
+  response: 77D0762180EB001A7EC
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
+  response: 77D0762180EB001A7EF
