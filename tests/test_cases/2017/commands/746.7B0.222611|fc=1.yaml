@@ -1,8 +1,8 @@
 command_id: 746.7B0.222611|fc=1
 test_cases:
 - expected_values:
-    AUDI_CLIMATE_LEG_DEFL_T: 33.966
-  response: 7B00462261166
+    AUDI_CLIMATE_LEG_DEFL_T: 32.634
+  response: 7B00462261162
 - expected_values:
     AUDI_CLIMATE_LEG_DEFL_T: 67.599
   response: 7B004622611CB

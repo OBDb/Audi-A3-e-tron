@@ -4,8 +4,8 @@ test_cases:
     AUDI_HVBAT_T_MIN: 428.5625
   response: 17FE007B05621E0F6B24
 - expected_values:
-    AUDI_HVBAT_T_MIN: 448
-  response: 17FE007B05621E0F7000
+    AUDI_HVBAT_T_MIN: 440
+  response: 17FE007B05621E0F6E00
 - expected_values:
     AUDI_HVBAT_T_MIN: 453.3125
   response: 17FE007B05621E0F7154
