@@ -7,5 +7,5 @@ test_cases:
     AUDI_BMS_I_DCHG_LIM_PRED: 111
   response: 7ED05621E1E006F
 - expected_values:
-    AUDI_BMS_I_DCHG_LIM_PRED: 116
-  response: 7ED05621E1E0074
+    AUDI_BMS_I_DCHG_LIM_PRED: 1023
+  response: 7ED05621E1E03FF
