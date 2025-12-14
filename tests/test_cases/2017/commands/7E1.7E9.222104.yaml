@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
-    AUDI_ATF_T: -26
-  response: 7E9056221040E00
+    AUDI_ATF_T: -28
+  response: 7E9056221040C00
 - expected_values:
     AUDI_ATF_T: 48
   response: '7E9056221045800'
