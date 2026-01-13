@@ -25,6 +25,10 @@ test_cases:
     AUDI_SSB_R: 5.8
   response: 77A04622A0E1D
 - expected_values:
+    AUDI_BAT_INT_R: 6
+    AUDI_SSB_R: 6
+  response: 77A04622A0E1E
+- expected_values:
     AUDI_BAT_INT_R: 51
     AUDI_SSB_R: 51
   response: 77A04622A0EFF
