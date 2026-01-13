@@ -4,5 +4,5 @@ test_cases:
     AUDI_CLIMATE_LEG_DEFL_T: 32.634
   response: 7B00462261162
 - expected_values:
-    AUDI_CLIMATE_LEG_DEFL_T: 68.931
-  response: 7B004622611CF
+    AUDI_CLIMATE_LEG_DEFL_T: 69.264
+  response: 7B004622611D0
