@@ -1,8 +1,10 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
+    AUDI_AAT_FROMCABIN: 40.5
     AUDI_AAT_V2: 40.5
   response: 7B00462260951
 - expected_values:
+    AUDI_AAT_FROMCABIN: -63.5
     AUDI_AAT_V2: -63.5
   response: 7B00462260981
