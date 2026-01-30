@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221072
+test_cases:
+- expected_values:
+    AUDI_PQ35_CLUTCH_2_ADAPT_BASIC_CHAR_POINT_3_POS: 40
+  response: 7E905621072A00F
