@@ -1,0 +1,14 @@
+command_id: 7E0.221164
+test_cases:
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 1.61
+  response: 7E80562116400A1
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 7.67
+  response: 7E80562116402FF
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 12.8
+  response: '7E8056211640500'
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 99.86
+  response: '7E8056211642702'
