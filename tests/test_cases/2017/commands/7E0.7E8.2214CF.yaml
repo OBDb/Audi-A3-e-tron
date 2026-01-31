@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2214CF
 test_cases:
 - expected_values:
+    AUDI_PQ35_MAIN_INJ_DURATION: 10.0272
+  response: 7E8056214CF61EC
+- expected_values:
     AUDI_PQ35_MAIN_INJ_DURATION: 10.1524
   response: 7E8056214CF6325
 - expected_values:
