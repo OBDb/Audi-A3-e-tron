@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_PQ35_CLUTCH_2_FAILED_ADAPTS_COUNTER: 0
   response: 7E9056210ED0000
+- expected_values:
+    AUDI_PQ35_CLUTCH_2_FAILED_ADAPTS_COUNTER: 1024
+  response: 7E9056210ED0400
+- expected_values:
+    AUDI_PQ35_CLUTCH_2_FAILED_ADAPTS_COUNTER: 1280
+  response: 7E9056210ED0500
