@@ -7,26 +7,5 @@ test_cases:
     AUDI_MQB_OUTPUT_SHAFT_2: 515
   response: 7E90562380F0203
 - expected_values:
-    AUDI_MQB_OUTPUT_SHAFT_2: 14083
-  response: 7E90562380F3703
-- expected_values:
-    AUDI_MQB_OUTPUT_SHAFT_2: 17920
-  response: 7E90562380F4600
-- expected_values:
-    AUDI_MQB_OUTPUT_SHAFT_2: 18179
-  response: 7E90562380F4703
-- expected_values:
-    AUDI_MQB_OUTPUT_SHAFT_2: 19968
-  response: 7E90562380F4E00
-- expected_values:
-    AUDI_MQB_OUTPUT_SHAFT_2: 24323
-  response: 7E90562380F5F03
-- expected_values:
-    AUDI_MQB_OUTPUT_SHAFT_2: 25347
-  response: 7E90562380F6303
-- expected_values:
-    AUDI_MQB_OUTPUT_SHAFT_2: 30211
-  response: 7E90562380F7603
-- expected_values:
-    AUDI_MQB_OUTPUT_SHAFT_2: -29181
-  response: 7E90562380F8E03
+    AUDI_MQB_OUTPUT_SHAFT_2: -1021
+  response: 7E90562380FFC03
