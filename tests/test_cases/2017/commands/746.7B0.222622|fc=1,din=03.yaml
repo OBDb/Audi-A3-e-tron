@@ -1,9 +1,9 @@
 command_id: 746.7B0.222622|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 57.5
-    AUDI_PQ35_FL_TEMP_FLAP: 57.5
-  response: 7B006622622000073
+    AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 56.5
+    AUDI_PQ35_FL_TEMP_FLAP: 56.5
+  response: 7B006622622000071
 - expected_values:
     AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 75
     AUDI_PQ35_FL_TEMP_FLAP: 75

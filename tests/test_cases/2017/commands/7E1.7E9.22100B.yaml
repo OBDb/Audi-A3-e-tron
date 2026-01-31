@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.22100B
 test_cases:
 - expected_values:
+    AUDI_MQB_TCM_DRIVER_DEMAND_TORQUE: 102.5
+  response: 7E90562100B0802
+- expected_values:
     AUDI_MQB_TCM_DRIVER_DEMAND_TORQUE: -857.75
   response: 7E90562100BBCFD
+- expected_values:
+    AUDI_MQB_TCM_DRIVER_DEMAND_TORQUE: -153.3
+  response: 7E90562100BF406

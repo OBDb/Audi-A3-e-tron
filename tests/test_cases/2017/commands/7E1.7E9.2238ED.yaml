@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_PQ35_CLUTCH_2_CMD_P: 0
   response: 7E9056238ED0000
+- expected_values:
+    AUDI_PQ35_CLUTCH_2_CMD_P: 27.05
+  response: 7E9056238ED910A
+- expected_values:
+    AUDI_PQ35_CLUTCH_2_CMD_P: 17.86
+  response: 7E9056238EDFA06
