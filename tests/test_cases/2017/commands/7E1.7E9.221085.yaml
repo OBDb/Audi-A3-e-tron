@@ -1,5 +1,17 @@
 command_id: 7E1.7E9.221085
 test_cases:
 - expected_values:
+    AUDI_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G3: -2.04
+  response: 7E90562108534FF
+- expected_values:
+    AUDI_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G3: -1.99
+  response: 7E90562108539FF
+- expected_values:
+    AUDI_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G3: -1.94
+  response: 7E9056210853EFF
+- expected_values:
     AUDI_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G3: -1.9
   response: 7E90562108542FF
+- expected_values:
+    AUDI_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G3: -1.89
+  response: 7E90562108543FF
