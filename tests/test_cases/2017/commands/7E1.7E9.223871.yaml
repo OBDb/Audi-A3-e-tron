@@ -7,8 +7,14 @@ test_cases:
     AUDI_MQB_DQ250_SPECIFIED_IDLE_RPM: 520
   response: '7E9056238710802'
 - expected_values:
+    AUDI_MQB_DQ250_SPECIFIED_IDLE_RPM: 370
+  response: '7E9056238717201'
+- expected_values:
     AUDI_MQB_DQ250_SPECIFIED_IDLE_RPM: 420
   response: 7E905623871A401
+- expected_values:
+    AUDI_MQB_DQ250_SPECIFIED_IDLE_RPM: 460
+  response: 7E905623871CC01
 - expected_values:
     AUDI_MQB_DQ250_SPECIFIED_IDLE_RPM: 250
   response: 7E905623871FA00

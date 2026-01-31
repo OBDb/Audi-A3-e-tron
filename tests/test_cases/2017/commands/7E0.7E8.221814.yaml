@@ -4,17 +4,8 @@ test_cases:
     AUDI_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 0
   response: '7E8056218140000'
 - expected_values:
-    AUDI_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 60
-  response: '7E8056218140258'
-- expected_values:
-    AUDI_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 60.6
-  response: 7E805621814025E
-- expected_values:
-    AUDI_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 64.4
-  response: '7E8056218140284'
-- expected_values:
-    AUDI_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 65
-  response: 7E805621814028A
-- expected_values:
     AUDI_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 70.4
   response: 7E80562181402C0
+- expected_values:
+    AUDI_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 77.4
+  response: '7E8056218140306'
