@@ -1,8 +1,8 @@
 command_id: FC00.FE007B.221E0F|ta=7B,c=17
 test_cases:
 - expected_values:
-    AUDI_HVBAT_T_MIN: 420.5625
-  response: 17FE007B05621E0F6924
+    AUDI_HVBAT_T_MIN: 416.5625
+  response: 17FE007B05621E0F6824
 - expected_values:
     AUDI_HVBAT_T_MIN: 440
   response: 17FE007B05621E0F6E00

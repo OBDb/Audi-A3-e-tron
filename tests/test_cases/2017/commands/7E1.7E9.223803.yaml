@@ -4,6 +4,9 @@ test_cases:
     AUDI_MQB_TCM_BRAKE_P: 0
   response: '7E9056238030000'
 - expected_values:
+    AUDI_MQB_TCM_BRAKE_P: 8.1
+  response: 7E9056238032A03
+- expected_values:
     AUDI_MQB_TCM_BRAKE_P: 6.6
   response: '7E9056238039402'
 - expected_values:
