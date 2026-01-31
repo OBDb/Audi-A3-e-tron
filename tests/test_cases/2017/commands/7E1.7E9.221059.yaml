@@ -1,6 +1,18 @@
 command_id: 7E1.7E9.221059
 test_cases:
 - expected_values:
+    AUDI_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 13.23
+  response: 7E9056210592B05
+- expected_values:
+    AUDI_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 13.24
+  response: 7E9056210592C05
+- expected_values:
+    AUDI_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 13.25
+  response: 7E9056210592D05
+- expected_values:
+    AUDI_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 13.26
+  response: 7E9056210592E05
+- expected_values:
     AUDI_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 13.28
   response: '7E9056210593005'
 - expected_values:
