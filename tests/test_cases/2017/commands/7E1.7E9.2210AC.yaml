@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.2210AC
 test_cases:
 - expected_values:
+    AUDI_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G6: 7.54
+  response: 7E9056210ACF202
+- expected_values:
     AUDI_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G6: 7.59
   response: 7E9056210ACF702
