@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2214F8
 test_cases:
 - expected_values:
-    AUDI_AAT_V1: 5.84
-  response: 7E8056214F80A1C
+    AUDI_AAT_V1: 4.58
+  response: 7E8056214F80A15
 - expected_values:
     AUDI_AAT_V1: 32.84
   response: 7E8056214F80AB2
