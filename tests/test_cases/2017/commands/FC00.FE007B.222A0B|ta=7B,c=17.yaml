@@ -1,8 +1,8 @@
 command_id: FC00.FE007B.222A0B|ta=7B,c=17
 test_cases:
 - expected_values:
-    AUDI_BATTERY_T: 12
-  response: 17FE007B04622A0B68
+    AUDI_BATTERY_T: 9
+  response: 17FE007B04622A0B62
 - expected_values:
     AUDI_BATTERY_T: 22.5
   response: 17FE007B04622A0B7D

@@ -15,4 +15,4 @@ test_cases:
 - expected_values:
     AUDI_MQB_HAL_CLUTCH_BLOCK: 1
     AUDI_MQB_HAL_CLUTCH_OPEN: 1
-  response: 77D0662180A20FD00
+  response: 77D0662180A20FFFE
