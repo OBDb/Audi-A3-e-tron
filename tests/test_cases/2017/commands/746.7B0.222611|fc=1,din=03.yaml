@@ -1,9 +1,9 @@
 command_id: 746.7B0.222611|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_LEG_DEFLECTOR_T: 22
-    AUDI_PQ35_LEG_DEFL_T: 21.978
-  response: 7B00462261142
+    AUDI_LEG_DEFLECTOR_T: 21.66667
+    AUDI_PQ35_LEG_DEFL_T: 21.645
+  response: 7B00462261141
 - expected_values:
     AUDI_LEG_DEFLECTOR_T: 75
     AUDI_PQ35_LEG_DEFL_T: 74.925
