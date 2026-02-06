@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.2210AD
 test_cases:
 - expected_values:
+    AUDI_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G6: 2.32
+  response: 7E9056210ADE800
+- expected_values:
+    AUDI_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G6: 2.37
+  response: 7E9056210ADED00
+- expected_values:
     AUDI_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G6: 2.42
   response: 7E9056210ADF200

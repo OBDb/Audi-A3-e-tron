@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22382B
 test_cases:
 - expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 642
+  response: 7E90562382B1419
+- expected_values:
     AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 136
   response: 7E90562382B5005
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 241
   response: 7E90562382B6A09
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 319
+  response: 7E90562382B760C
 - expected_values:
     AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 1501
   response: 7E90562382BA23A
