@@ -4,6 +4,9 @@ test_cases:
     AUDI_PQ35_GANGSTELLER_A_ADAPT_NEUTRALPOS: -0.28
   response: 7E905621084E4FF
 - expected_values:
+    AUDI_PQ35_GANGSTELLER_A_ADAPT_NEUTRALPOS: -0.24
+  response: 7E905621084E8FF
+- expected_values:
     AUDI_PQ35_GANGSTELLER_A_ADAPT_NEUTRALPOS: -0.23
   response: 7E905621084E9FF
 - expected_values:

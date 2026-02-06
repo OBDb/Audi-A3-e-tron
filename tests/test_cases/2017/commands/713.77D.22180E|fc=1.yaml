@@ -6,10 +6,6 @@ test_cases:
   response: 77D0762180E8001A48E
 - expected_values:
     AUDI_MQB_BRK_DRY_ACT: 0
-    AUDI_MQB_BRK_DRY_ODO_LAST: 108226
-  response: 77D0762180E8001A6C2
-- expected_values:
-    AUDI_MQB_BRK_DRY_ACT: 0
     AUDI_MQB_BRK_DRY_ODO_LAST: 108527
   response: 77D0762180E8001A7EF
 - expected_values:
@@ -18,25 +14,9 @@ test_cases:
   response: 77D0762180E8001AC2A
 - expected_values:
     AUDI_MQB_BRK_DRY_ACT: 0
+    AUDI_MQB_BRK_DRY_ODO_LAST: 110228
+  response: 77D0762180E8001AE94
+- expected_values:
+    AUDI_MQB_BRK_DRY_ACT: 1
     AUDI_MQB_BRK_DRY_ODO_LAST: 109759
-  response: 77D0762180E8001ACBF
-- expected_values:
-    AUDI_MQB_BRK_DRY_ACT: 0
-    AUDI_MQB_BRK_DRY_ODO_LAST: 107662
-  response: 77D0762180EB001A48E
-- expected_values:
-    AUDI_MQB_BRK_DRY_ACT: 0
-    AUDI_MQB_BRK_DRY_ODO_LAST: 108226
-  response: 77D0762180EB001A6C2
-- expected_values:
-    AUDI_MQB_BRK_DRY_ACT: 0
-    AUDI_MQB_BRK_DRY_ODO_LAST: 108524
-  response: 77D0762180EB001A7EC
-- expected_values:
-    AUDI_MQB_BRK_DRY_ACT: 0
-    AUDI_MQB_BRK_DRY_ODO_LAST: 108527
-  response: 77D0762180EB001A7EF
-- expected_values:
-    AUDI_MQB_BRK_DRY_ACT: 0
-    AUDI_MQB_BRK_DRY_ODO_LAST: 109759
-  response: 77D0762180EB001ACBF
+  response: 77D0762180EF001ACBF

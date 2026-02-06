@@ -4,6 +4,12 @@ test_cases:
     AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 0
   response: 7E90562382A0000
 - expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 410.7
+  response: 7E90562382A0B10
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 311.2
+  response: 7E90562382A280C
+- expected_values:
     AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 388.4
   response: 7E90562382A2C0F
 - expected_values:
@@ -15,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 426
   response: 7E90562382AA410
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 1070
+  response: 7E90562382ACC29

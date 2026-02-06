@@ -7,5 +7,5 @@ test_cases:
     AUDI_MQB_DPF_EXH_VOL: 76.3
   response: 7E8056211E602FB
 - expected_values:
-    AUDI_MQB_DPF_EXH_VOL: 207.9
-  response: 7E8056211E6081F
+    AUDI_MQB_DPF_EXH_VOL: 243.2
+  response: 7E8056211E60980
