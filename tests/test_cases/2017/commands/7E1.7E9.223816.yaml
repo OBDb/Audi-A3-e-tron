@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_I_GEAR_DQ200: -2
   response: '7E90462381600'
+- expected_values:
+    AUDI_MQB_TCM_I_GEAR_DQ200: 1
+  response: '7E90462381603'
+- expected_values:
+    AUDI_MQB_TCM_I_GEAR_DQ200: 2
+  response: '7E90462381604'
+- expected_values:
+    AUDI_MQB_TCM_I_GEAR_DQ200: 3
+  response: '7E90462381605'
