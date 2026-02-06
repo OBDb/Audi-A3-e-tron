@@ -7,5 +7,5 @@ test_cases:
     AUDI_PQ35_CLUTCH_2_CMD_P: 27.05
   response: 7E9056238ED910A
 - expected_values:
-    AUDI_PQ35_CLUTCH_2_CMD_P: 17.86
-  response: 7E9056238EDFA06
+    AUDI_PQ35_CLUTCH_2_CMD_P: 15.34
+  response: 7E9056238EDFE05

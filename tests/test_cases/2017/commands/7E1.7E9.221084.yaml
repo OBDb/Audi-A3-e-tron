@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.221084
 test_cases:
 - expected_values:
+    AUDI_PQ35_GANGSTELLER_A_ADAPT_NEUTRALPOS: -0.28
+  response: 7E905621084E4FF
+- expected_values:
+    AUDI_PQ35_GANGSTELLER_A_ADAPT_NEUTRALPOS: -0.23
+  response: 7E905621084E9FF
+- expected_values:
     AUDI_PQ35_GANGSTELLER_A_ADAPT_NEUTRALPOS: -0.22
   response: 7E905621084EAFF
 - expected_values:
