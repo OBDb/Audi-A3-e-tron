@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.2238EA
 test_cases:
 - expected_values:
-    AUDI_PQ35_CLUTCH_2_ACTUAL_P: 15.43
-  response: 7E9056238EA0706
+    AUDI_PQ35_CLUTCH_2_ACTUAL_P: 7.7
+  response: 7E9056238EA0203
 - expected_values:
     AUDI_PQ35_CLUTCH_2_ACTUAL_P: 1.8
   response: 7E9056238EAB400
