@@ -4,6 +4,9 @@ test_cases:
     AUDI_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_GR: -8.3
   response: 7E9056210B0C2FC
 - expected_values:
+    AUDI_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_GR: -8.29
+  response: 7E9056210B0C3FC
+- expected_values:
     AUDI_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_GR: -8.27
   response: 7E9056210B0C5FC
 - expected_values:
