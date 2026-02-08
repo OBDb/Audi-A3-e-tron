@@ -5,6 +5,6 @@ test_cases:
     AUDI_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 1
   response: '7E9056221040100'
 - expected_values:
-    AUDI_ATF_T: 48
-    AUDI_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 88
-  response: '7E9056221045800'
+    AUDI_ATF_T: 215
+    AUDI_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: -1
+  response: 7E905622104FFFF
