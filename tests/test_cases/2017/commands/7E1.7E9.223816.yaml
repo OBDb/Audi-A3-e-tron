@@ -1,20 +1,20 @@
 command_id: 7E1.7E9.223816
 test_cases:
 - expected_values:
-    AUDI_MQB_TCM_I_GEAR_DQ200: -2
+    A3E_MQB_TCM_I_GEAR_DQ200: -2
   response: '7E90462381600'
 - expected_values:
-    AUDI_MQB_TCM_I_GEAR_DQ200: 0
+    A3E_MQB_TCM_I_GEAR_DQ200: 0
   response: '7E90462381602'
 - expected_values:
-    AUDI_MQB_TCM_I_GEAR_DQ200: 1
+    A3E_MQB_TCM_I_GEAR_DQ200: 1
   response: '7E90462381603'
 - expected_values:
-    AUDI_MQB_TCM_I_GEAR_DQ200: 2
+    A3E_MQB_TCM_I_GEAR_DQ200: 2
   response: '7E90462381604'
 - expected_values:
-    AUDI_MQB_TCM_I_GEAR_DQ200: 3
+    A3E_MQB_TCM_I_GEAR_DQ200: 3
   response: '7E90462381605'
 - expected_values:
-    AUDI_MQB_TCM_I_GEAR_DQ200: 10
+    A3E_MQB_TCM_I_GEAR_DQ200: 10
   response: 7E9046238160C

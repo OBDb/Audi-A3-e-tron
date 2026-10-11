@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221009
 test_cases:
 - expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 0
+    A3E_MQB_DQ250_SPD_OUTPUT: 0
   response: '7E9056210090000'
 - expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 1025
+    A3E_MQB_DQ250_SPD_OUTPUT: 1025
   response: '7E9056210090104'
 - expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 511
+    A3E_MQB_DQ250_SPD_OUTPUT: 511
   response: 7E905621009FF01

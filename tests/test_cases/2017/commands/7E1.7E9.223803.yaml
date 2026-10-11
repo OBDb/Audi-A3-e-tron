@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.223803
 test_cases:
 - expected_values:
-    AUDI_MQB_TCM_BRAKE_P: 0
+    A3E_MQB_TCM_BRAKE_P: 0
   response: '7E9056238030000'
 - expected_values:
-    AUDI_MQB_TCM_BRAKE_P: -0.3
+    A3E_MQB_TCM_BRAKE_P: -0.3
   response: 7E905623803E2FF
 - expected_values:
-    AUDI_MQB_TCM_BRAKE_P: 15.3
+    A3E_MQB_TCM_BRAKE_P: 15.3
   response: 7E905623803FA05

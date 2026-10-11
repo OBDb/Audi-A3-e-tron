@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.22380D
 test_cases:
 - expected_values:
-    AUDI_MQB_INPUT_SHAFT_2: 0
+    A3E_MQB_INPUT_SHAFT_2: 0
   response: 7E90562380D0000
 - expected_values:
-    AUDI_MQB_INPUT_SHAFT_2: 4308
+    A3E_MQB_INPUT_SHAFT_2: 4308
   response: 7E90562380DD410
 - expected_values:
-    AUDI_MQB_INPUT_SHAFT_2: 2045
+    A3E_MQB_INPUT_SHAFT_2: 2045
   response: 7E90562380DFD07
