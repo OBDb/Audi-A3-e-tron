@@ -230,6 +230,10 @@
   "signals": [
     {"id": "A3E_BRAKE_P", "path": "Control", "fmt": { "len": 16, "max": 458.8288, "min": -543.8501, "mul": 152999, "div": 10000000, "add": -42.503, "sign": true, "unit": "bars" }, "name": "Brake pressure"}
   ]},
+{ "hdr": "714", "cmd": {"22": "2613"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "A3E_INTERIOR_T", "path": "Climate", "fmt": { "len": 16, "max": 255, "div": 10, "unit": "celsius" }, "name": "Interior air temperature"}
+  ]},
 { "hdr": "714", "rax": "77E", "din": "03", "cmd": {"22": "1014"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2019 },
   "signals": [
     {"id": "A3E_DASH_AMBIENT_AIR_T", "path": "Engine", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature"}
