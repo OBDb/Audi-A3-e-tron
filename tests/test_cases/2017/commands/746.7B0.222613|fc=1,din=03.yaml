@@ -1,14 +1,11 @@
 command_id: 746.7B0.222613|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CABIN_T: 14.2
-    AUDI_PQ35_CAB_T: 14.2
+    A3E_CABIN_T_V2: 14.2
   response: 7B005622613008E
 - expected_values:
-    AUDI_CABIN_T: 25.5
-    AUDI_PQ35_CAB_T: 25.5
+    A3E_CABIN_T_V2: 25.5
   response: 7B00562261300FF
 - expected_values:
-    AUDI_CABIN_T: 25.6
-    AUDI_PQ35_CAB_T: 25.6
+    A3E_CABIN_T_V2: 25.6
   response: 7B0056226130100

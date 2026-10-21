@@ -1,42 +1,42 @@
 command_id: 744.7AE.221DDA|fc=1
 test_cases:
 - expected_values:
-    AUDI_OBC_T_A: -54.8
+    A3E_OBC_T_A: -54.8
   response: |-
     7AE1009621DDA000002
     7AE21A30226AAAAAAAA
 - expected_values:
-    AUDI_OBC_T_A: -54.9
+    A3E_OBC_T_A: -54.9
   response: |-
     7AE1009621DDA040001
     7AE217D0226AAAAAAAA
 - expected_values:
-    AUDI_OBC_T_A: -54.9
+    A3E_OBC_T_A: -54.9
   response: |-
     7AE1009621DDA040001
     7AE218F0226AAAAAAAA
 - expected_values:
-    AUDI_OBC_T_A: -54.9
+    A3E_OBC_T_A: -54.9
   response: |-
     7AE1009621DDA040001
     7AE21C00226AAAAAAAA
 - expected_values:
-    AUDI_OBC_T_A: -54.9
+    A3E_OBC_T_A: -54.9
   response: |-
     7AE1009621DDA040001
     7AE21F00226AAAAAAAA
 - expected_values:
-    AUDI_OBC_T_A: -54.8
+    A3E_OBC_T_A: -54.8
   response: |-
     7AE1009621DDA040002
     7AE21000226AAAAAAAA
 - expected_values:
-    AUDI_OBC_T_A: -54.7
+    A3E_OBC_T_A: -54.7
   response: |-
     7AE1009621DDA040003
     7AE21140226AAAAAAAA
 - expected_values:
-    AUDI_OBC_T_A: 1557.9
+    A3E_OBC_T_A: 1557.9
   response: |-
     7AE1009621DDAC03F01
     7AE21D60226AAAAAAAA

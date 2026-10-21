@@ -1,10 +1,8 @@
 command_id: 746.7B0.22260C|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_FRONT_LEFT_DEFLECTOR_T: 23.33333
-    AUDI_PQ35_FL_DEFL_T: 23.31
+    A3E_CLIMATE_FR_L_DEFL_T: 23.33333
   response: 7B00462260C46
 - expected_values:
-    AUDI_FRONT_LEFT_DEFLECTOR_T: 70.33333
-    AUDI_PQ35_FL_DEFL_T: 70.263
+    A3E_CLIMATE_FR_L_DEFL_T: 70.33333
   response: 7B00462260CD3

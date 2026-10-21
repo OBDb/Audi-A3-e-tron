@@ -1,7 +1,7 @@
 command_id: 710.77A.222AB8|fc=1
 test_cases:
 - expected_values:
-    AUDI_HVBAT_KWH: 0
+    A3E_BAT_ENERGY_CONTENT: 15.49941
   response: |-
     77A100B622AB8013600
     77A210000000003AAAA

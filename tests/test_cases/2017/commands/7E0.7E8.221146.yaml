@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221146
 test_cases:
 - expected_values:
-    AUDI_MISFIRES_TOTAL: 0
+    A3E_MISFIRES_TOTAL: 0
   response: '7E8056211460000'
 - expected_values:
-    AUDI_MISFIRES_TOTAL: 5
+    A3E_MISFIRES_TOTAL: 5
   response: '7E8056211460005'

@@ -1,11 +1,11 @@
 command_id: FC00.FE007B.221E38|ta=7B,c=17
 test_cases:
 - expected_values:
-    AUDI_HVBAT_V_AFTER: 0
+    A3E_HVBAT_V_AFTER: 0
   response: 17FE007B05621E380000
 - expected_values:
-    AUDI_HVBAT_V_AFTER: 103.87493
+    A3E_HVBAT_V_AFTER: 103.87493
   response: 17FE007B05621E380CFC
 - expected_values:
-    AUDI_HVBAT_V_AFTER: 120.09367
+    A3E_HVBAT_V_AFTER: 120.09367
   response: 17FE007B05621E380F03

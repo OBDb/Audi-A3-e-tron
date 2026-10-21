@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22114A
 test_cases:
 - expected_values:
-    AUDI_MISFIRES_1000REV_C2: 0
+    A3E_MISFIRES_1000REV_C2: 0
   response: 7E80562114A0000
 - expected_values:
-    AUDI_MISFIRES_1000REV_C2: 1
+    A3E_MISFIRES_1000REV_C2: 1
   response: 7E80562114A0001
 - expected_values:
-    AUDI_MISFIRES_1000REV_C2: 2
+    A3E_MISFIRES_1000REV_C2: 2
   response: 7E80562114A0002
 - expected_values:
-    AUDI_MISFIRES_1000REV_C2: 3
+    A3E_MISFIRES_1000REV_C2: 3
   response: 7E80562114A0003
 - expected_values:
-    AUDI_MISFIRES_1000REV_C2: 4
+    A3E_MISFIRES_1000REV_C2: 4
   response: 7E80562114A0004

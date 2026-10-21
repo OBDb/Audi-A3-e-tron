@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22388C
 test_cases:
 - expected_values:
-    AUDI_MQB_TCM_IGNITION_CYCLES: 0
+    A3E_MQB_TCM_IGNITION_CYCLES: 0
   response: 7E90562388C0000
 - expected_values:
-    AUDI_MQB_TCM_IGNITION_CYCLES: 56
+    A3E_MQB_TCM_IGNITION_CYCLES: 56
   response: 7E90562388C3800

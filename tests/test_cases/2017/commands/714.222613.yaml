@@ -1,5 +1,5 @@
 command_id: '714.222613'
 test_cases:
 - expected_values:
-    AUDI_IAT: 32.4
+    A3E_INTERIOR_T: 32.4
   response: 7EF056226130144

@@ -1,5 +1,5 @@
 command_id: 710.77A.222AB2|fc=1
 test_cases:
 - expected_values:
-    AUDI_HVBAT_CAP: 1395200
+    A3E_MAX_ENERGY_CONTENT: 1395.14795
   response: 77A07622AB26D000600
