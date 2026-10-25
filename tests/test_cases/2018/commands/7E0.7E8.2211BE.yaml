@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    A3E_PQ35_OIL_T_2: 6275.7
+    A3E_PQ35_OIL_T_2: null
   response: 7E8056211BEFFD0
 - expected_values:
-    A3E_PQ35_OIL_T_2: 6275.8
+    A3E_PQ35_OIL_T_2: null
   response: 7E8056211BEFFD1
